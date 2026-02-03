@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[97367,["https://kudi03628.github.io/testui1/testui1/_next/static/chunks/ff1a16fafef87110.js","https://kudi03628.github.io/testui1/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+2:I[97367,["https://kudi03628.github.io/testui1/_next/static/chunks/ff1a16fafef87110.js","https://kudi03628.github.io/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"ax7BAZRsSicy74Lr912sA","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col items-center justify-center h-full text-gray-500","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-700 mb-2","children":"통계"}],["$","p",null,{"children":"좌측 메뉴에서 세부 항목을 선택해주세요."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"yvDbW7VerN0YYoME2paUx","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col items-center justify-center h-full text-gray-500","children":[["$","h2",null,{"className":"text-2xl font-bold text-gray-700 mb-2","children":"통계"}],["$","p",null,{"children":"좌측 메뉴에서 세부 항목을 선택해주세요."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
