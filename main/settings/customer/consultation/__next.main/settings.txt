@@ -1,8 +1,8 @@
 1:"$Sreact.fragment"
-2:I[92825,["/testui1/_next/static/chunks/ff1a16fafef87110.js","/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientSegmentRoot"]
-3:I[18150,["/testui1/_next/static/chunks/71f0132a4fd643de.js","/testui1/_next/static/chunks/34f458bcdc97955f.js","/testui1/_next/static/chunks/a0a2c11f93323665.js","/testui1/_next/static/chunks/b17a55ebe567d272.js"],"default"]
-4:I[39756,["/testui1/_next/static/chunks/ff1a16fafef87110.js","/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-5:I[37457,["/testui1/_next/static/chunks/ff1a16fafef87110.js","/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
-:HL["/testui1/_next/static/chunks/d959e701dc35bea8.css","style"]
-0:{"buildId":"WGMWhbjsM9Z7HJwHk2L9e","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/testui1/_next/static/chunks/d959e701dc35bea8.css","precedence":"next"}],["$","script","script-0",{"src":"/testui1/_next/static/chunks/b17a55ebe567d272.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
+2:I[92825,["https://kudi03628.github.io/testui1/_next/static/chunks/ff1a16fafef87110.js","https://kudi03628.github.io/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"ClientSegmentRoot"]
+3:I[18150,["https://kudi03628.github.io/testui1/_next/static/chunks/71f0132a4fd643de.js","https://kudi03628.github.io/testui1/_next/static/chunks/34f458bcdc97955f.js","https://kudi03628.github.io/testui1/_next/static/chunks/a0a2c11f93323665.js","https://kudi03628.github.io/testui1/_next/static/chunks/b17a55ebe567d272.js"],"default"]
+4:I[39756,["https://kudi03628.github.io/testui1/_next/static/chunks/ff1a16fafef87110.js","https://kudi03628.github.io/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+5:I[37457,["https://kudi03628.github.io/testui1/_next/static/chunks/ff1a16fafef87110.js","https://kudi03628.github.io/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+:HL["https://kudi03628.github.io/testui1/_next/static/chunks/d959e701dc35bea8.css","style"]
+0:{"buildId":"EdLXMs-8s1J1vy32waS6_","rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"https://kudi03628.github.io/testui1/_next/static/chunks/d959e701dc35bea8.css","precedence":"next"}],["$","script","script-0",{"src":"https://kudi03628.github.io/testui1/_next/static/chunks/b17a55ebe567d272.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
 6:{}
