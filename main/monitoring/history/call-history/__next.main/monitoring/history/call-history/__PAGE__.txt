@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["https://kudi03628.github.io/testui1/_next/static/chunks/ff1a16fafef87110.js","https://kudi03628.github.io/testui1/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"EdLXMs-8s1J1vy32waS6_","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"p-8","children":[["$","h1",null,{"className":"text-2xl font-bold text-gray-800 mb-4","children":"통화 이력 조회"}],["$","div",null,{"className":"bg-white p-6 rounded shadow border","children":["$","p",null,{"className":"text-gray-600","children":"과거 통화 기록을 검색하고 조회하는 화면입니다."}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"p4ki1_A7tMBls8FnJ26EK","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"p-8","children":[["$","h1",null,{"className":"text-2xl font-bold text-gray-800 mb-4","children":"통화 이력 조회"}],["$","div",null,{"className":"bg-white p-6 rounded shadow border","children":["$","p",null,{"className":"text-gray-600","children":"과거 통화 기록을 검색하고 조회하는 화면입니다."}]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
