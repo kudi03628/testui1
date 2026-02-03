@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/ec175946d148feee.css","style"]
-:HL["/_next/static/chunks/85982ab8ec8e4ec9.css","style"]
-:HL["/_next/static/chunks/8da42f6550e7be3e.css","style"]
-:HL["/_next/static/chunks/5d1c69a7dcd41571.css","style"]
-:HL["/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"llM_SOq-X6dYvmaGsUwfF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"main","paramType":null,"paramKey":"main","hasRuntimePrefetch":false,"slots":{"children":{"name":"monitoring","paramType":null,"paramKey":"monitoring","hasRuntimePrefetch":false,"slots":{"children":{"name":"realtime","paramType":null,"paramKey":"realtime","hasRuntimePrefetch":false,"slots":{"children":{"name":"agent-status3","paramType":null,"paramKey":"agent-status3","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/testui1/_next/static/chunks/ec175946d148feee.css","style"]
+:HL["/testui1/_next/static/chunks/85982ab8ec8e4ec9.css","style"]
+:HL["/testui1/_next/static/chunks/8da42f6550e7be3e.css","style"]
+:HL["/testui1/_next/static/chunks/5d1c69a7dcd41571.css","style"]
+:HL["/testui1/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/testui1/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"6szgmupsw0b7OKAiJNp2A","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"main","paramType":null,"paramKey":"main","hasRuntimePrefetch":false,"slots":{"children":{"name":"monitoring","paramType":null,"paramKey":"monitoring","hasRuntimePrefetch":false,"slots":{"children":{"name":"realtime","paramType":null,"paramKey":"realtime","hasRuntimePrefetch":false,"slots":{"children":{"name":"agent-status3","paramType":null,"paramKey":"agent-status3","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
